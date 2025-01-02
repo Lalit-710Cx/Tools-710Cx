@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiArrowBigRightDash",
+      "LiArrowDownCircle",
+      "LiAlignVerticalDistributeCenter",
+      "LiAlignHorizontalSpaceBetween",
+      "LiAlertTriangle"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "00 - Projects": "LiAlbum",
+  "01 - Areas": "LiAlertTriangle",
+  "02 - Resources": "LiAlignHorizontalSpaceBetween",
+  "03 - Archives": "LiAlignVerticalDistributeCenter",
+  "04 - Untags": "LiArrowDownCircle",
+  "05 - Attachment": "LiArrowBigRightDash"
+}

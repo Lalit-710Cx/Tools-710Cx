@@ -1,0 +1,19 @@
+{
+  "accentColor": "#009999",
+  "cssTheme": "Mado Miniflow",
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code PL",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "colored-sidebar-items",
+    "cosmos-general-tweaks",
+    "cyanvoxels-general-tweaks",
+    "daily-note-themes",
+    "notebook-backgrounds",
+    "note-headers-sniffet"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}

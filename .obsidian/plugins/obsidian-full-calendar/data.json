@@ -1,0 +1,16 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#492222",
+      "directory": "03 - calendar"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "listWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}
